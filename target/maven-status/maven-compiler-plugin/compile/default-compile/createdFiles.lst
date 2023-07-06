@@ -1,0 +1,8 @@
+com/mycompany/graduation_template/resources/JakartaEE8Resource.class
+Start/LoginServlet.class
+Start/FileCopyServlet.class
+Start/AddUser.class
+Start/SessionFilter.class
+Start/DeleteUser.class
+Start/Logout.class
+com/mycompany/graduation_template/JakartaRestConfiguration.class
